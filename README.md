@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/1719949967023.jpeg" alt="Profile Background" width="100%" />
+</p>
 <h1>Hi 👋, I'm Jafrin Alam Prima</h1>
 <p> I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University. My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems. I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.
 
