@@ -39,7 +39,7 @@ Feel free to check out my repositories and connect with me if you're interested 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jafrin-Alam-Prima&show_icons=true&locale=en&layout=compact" alt="Jafrin-Alam-Prima" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jafrin-Alam-Prima" alt="Jafrin-Alam-Prima" /></a></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/output/github-snake.svg" />
 </picture>
