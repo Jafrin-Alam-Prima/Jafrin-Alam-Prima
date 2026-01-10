@@ -2,9 +2,9 @@
   <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/WhatsApp Image 2025-05-01 at 01.09.18_006c54ea.jpg" alt="Profile Background" width="100%" />
 </p>
 <h1>Hi 👋, I'm Jafrin Alam Prima</h1>
-<p> 👩‍💻 Trainee Data Analyst @ Save the Children International
-🎓 Software Engineering Graduate (Major in Data Science)
-🤖 Aspiring AI & Data Scientist
+<p> 👩‍💻 Trainee Data Analyst @ Save the Children International</b>
+🎓 Software Engineering Graduate (Major in Data Science)</b>
+🤖 Aspiring AI & Data Scientist</b>
 
 I’m passionate about applying AI, data analytics, and machine learning to build intelligent, impactful, and socially responsible solutions. My journey started with competitive programming, strengthened my analytical thinking, and evolved into building AI systems and data-driven applications.
 
