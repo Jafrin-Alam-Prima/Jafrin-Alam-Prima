@@ -2,15 +2,29 @@
   <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/WhatsApp Image 2025-05-01 at 01.09.18_006c54ea.jpg" alt="Profile Background" width="100%" />
 </p>
 <h1>Hi 👋, I'm Jafrin Alam Prima</h1>
-<p> I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University. My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems. I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.
+<p> 👩‍💻 Trainee Data Analyst @ Save the Children International
+🎓 Software Engineering Graduate (Major in Data Science)
+🤖 Aspiring AI & Data Scientist
 
-  🌱 Currently Learning:
+I’m passionate about applying AI, data analytics, and machine learning to build intelligent, impactful, and socially responsible solutions. My journey started with competitive programming, strengthened my analytical thinking, and evolved into building AI systems and data-driven applications.
 
-🤖 Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
+💻 Current Skills & Tools:
 
-🔍 Building AI applications using frameworks like Langchain and Huggingface.
+Programming & AI: Python, FastAPI, Langchain, Streamlit
 
-Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀</p>
+Data & Visualization: Power BI, Power Apps
+
+AI & ML: NLP, Generative AI, MLOps, Deep Learning
+
+🌱 Currently Learning & Exploring:
+
+Building AI applications with Langchain & Huggingface
+
+Advanced data analytics & applied AI solutions
+
+AI for social good and impactful solutions
+
+✨ Open to: Research collaboration, AI projects, and learning opportunities 🚀</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
