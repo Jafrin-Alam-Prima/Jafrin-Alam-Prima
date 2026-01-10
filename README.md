@@ -2,16 +2,7 @@
   <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/WhatsApp Image 2025-05-01 at 01.09.18_006c54ea.jpg" alt="Profile Background" width="100%" />
 </p>
 <h1>Hi 👋, I'm Jafrin Alam Prima</h1>
-<p>Got it! Since your GitHub bio should be concise, professional, and highlight both your AI/Data skills **and current experience**, I’ve rewritten it for you. Here’s a polished version that blends your previous bio, LinkedIn details, and current job:
-
----
-
-<p align="center">
-  <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/WhatsApp%20Image%202025-05-01%20at%2001.09.18_006c54ea.jpg" alt="Profile Background" width="100%" />
-</p>
-
-# Hi 👋, I'm Jafrin Alam Prima
-
+<p>
 👩‍💻 **Trainee Data Analyst @ Save the Children International**
 🎓 **Software Engineering Graduate (Major in Data Science)**
 🤖 **Aspiring AI & Data Scientist**
