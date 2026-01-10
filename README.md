@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/WhatsApp Image 2025-05-01 at 01.09.18_006c54ea.jpg" alt="Profile Background" width="50%" />
+  <img src="https://github.com/Jafrin-Alam-Prima/Jafrin-Alam-Prima/blob/main/WhatsApp Image 2025-05-01 at 01.09.18_006c54ea.jpg" alt="Profile Background" width="100%" />
 </p>
 <h1>Hi 👋, I'm Jafrin Alam Prima</h1>
 <p>
